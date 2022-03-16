@@ -19,7 +19,7 @@ Hi, I'm <a href="https://www.linkedin.com/in/vitalii-lavreniuk-29115112b/">Vital
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Any work? do reach, [email](mailto:lavreniuk.vitalii@gmail.com) :)
+- 💼 Have an opportunity? Please, reach out via [email](mailto:lavreniuk.vitalii@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 <h3 style="border-top: 1px solid #bbb; color: rgb(26, 156, 176); font-weight: bold; font-size:16pt" align="center"> Skills and Awards </h3>
