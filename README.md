@@ -13,7 +13,7 @@
 <br />
 
 <h1 style="font-size:11pt">
-Hi, I'm <a href="https://www.linkedin.com/in/vitalii-lavreniuk-29115112b/">Vitalii Lavreniuk</a>, a passionate self-taught Software developer with 6+ years of experience from Ukraine 🇺🇦🇺🇦🇺🇦. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. </h1>
+Hi, I'm <a href="https://www.linkedin.com/in/vitalii-lavreniuk-29115112b/">Vitalii Lavreniuk</a>, a passionate self-taught Software developer with 7+ years of experience from Ukraine 🇺🇦🇺🇦🇺🇦. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. </h1>
 
 ***I have good knowledge and understand the main principles for creating successful application design (SOLID, OOP, OOD), I have experience with all required development tools and of course with all common WEB technologies. I constantly learn trending technologies, not limited to iOS but also Android and WEB. I'm self-motivated, a quick learner, and a good team player.***
 
