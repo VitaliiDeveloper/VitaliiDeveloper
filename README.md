@@ -25,6 +25,5 @@ Hi, I'm <a href="https://www.linkedin.com/in/vitalii-lavreniuk-29115112b/">Vital
 <h3 style="border-top: 1px solid #bbb; color: rgb(26, 156, 176); font-weight: bold; font-size:16pt" align="center"> Skills and Awards </h3>
 
 - Main Programming Languages: Swift, Objective-C, JavaScript
-- Secondary Programming Languages: Dart, Ruby, Python, Shell
-- Technologies, Frameworks, Libraries: Flutter , Rails, React, Node
-- Cocoa Pods, Carthage, Developing Libraries, Developing Framework, UI/UX Design, Project management, Team management etc.
+- Secondary Programming Languages: Dart, Python, Shell
+- Cocoa Pods, Carthage, Developing Libraries, Developing Framework, UI/UX Design, Project management, Team management, etc.
