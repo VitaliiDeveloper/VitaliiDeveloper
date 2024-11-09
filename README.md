@@ -16,7 +16,7 @@
 Hi, I'm <a href="https://www.linkedin.com/in/vitalii-lavreniuk-29115112b/">Vitalii Lavreniuk</a>, a passionate self-taught Software Developer from Ukraine 🇺🇦 with over 8 years of experience. I’m all about transforming ideas into impactful digital solutions through seamless interfaces and thoughtful architecture. I believe in creating code that's not only functional but elegant, structured, and user-centered.
 </h1>
 
-💡 ***I embrace principles like SOLID, OOP, and OOD in my work, and I’ve got experience across the spectrum of tools and technologies for creating web, iOS, and Android applications. I’m driven by curiosity and am always leveling up with the latest trends in the tech world!***
+💡 ***I embrace principles like SOLID, OOP, and OOD in my work, and I’ve got experience across the spectrum of tools and technologies for creating applications. I’m driven by curiosity and am always leveling up with the latest trends in the tech world!***
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
